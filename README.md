@@ -46,7 +46,7 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/storyrago/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=storyrago&layout=donut)](https://github.com/storyrago/github-readme-stats)
 ![Jamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=storyrago&show_icons=true&theme=transparent)
 
 </div>
