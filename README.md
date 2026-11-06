@@ -4,10 +4,6 @@
 
 </div>
 
-### Others
-
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-
 </div>
 
 ## 🪪Certification
